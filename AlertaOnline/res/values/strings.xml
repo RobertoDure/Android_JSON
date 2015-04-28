@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alerta Online</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastrar">Cadastrar Usuário</string>
+    <string name="title_activity_atualizar">Atualizar usuário</string>
+    <string name="title_activity_listar">Listar usuário</string>
+    <string name="title_activity_tela_atualizacao">Atualizar usuário</string>
+    <string name="title_activity_principal_assaltos">Relatar Assaltos</string>
+    
+    <string name="tipo_crime">Tipo de crime</string>
+    	<string-array name="tipo_arrays">
+    		<item>Furto</item>
+    		<item>Roubo</item>
+    		<item>Assalto a grupo</item>
+    		<item>Sequestro Relâmpago</item>
+    		<item>Arrobamento veicular</item>
+    		<item>Arrobamento domiciliar</item>
+    		<item>Arrobamento loja comercial</item>
+    		<item>Saidinha de banco</item>
+    		<item>Roubo de veículo</item>
+    		<item>Arrastão</item>
+    		<item>Tentativa de assalto</item>
+    		<item>Roubo em dinheiro</item>
+    		<item>Outros</item>
+    	</string-array> 
+</resources>
