@@ -1,9 +1,5 @@
 package br.com.json;
 
-/**
- * Created by Insideweb2 on 04/05/2015.
- */
-
 import android.util.Log;
 
 import org.apache.http.HttpResponse;

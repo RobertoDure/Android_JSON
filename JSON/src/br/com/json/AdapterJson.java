@@ -12,9 +12,6 @@ import org.w3c.dom.Text;
 
 import java.util.List;
 
-/**
- * Created by Insideweb2 on 07/05/2015.
- */
 public class AdapterJson extends BaseAdapter{
 
     private int resource;

@@ -1,8 +1,5 @@
 package br.com.json;
 
-/**
- * Created by Insideweb2 on 04/05/2015.
- */
 
 import android.content.Context;
 import android.view.LayoutInflater;
